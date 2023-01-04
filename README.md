@@ -1,6 +1,3 @@
-# 40-1st-Cesop-backend
-
-
 ## 💡 CESOP
 
 
@@ -14,20 +11,18 @@
 
 ## 💡 참여 개발자
 
+### Back-end Developers
+| Back-End | Back-End |
+| :---: | :---: |
+| 황정수 | 이가은 |
+
+
 
 ### **Front-end Developers**
-
 | Front-End | Front-End | Front-End | Front-End |
 | :---: | :---: | :---: | :---: |
 | 임우진<br>(Product) | 박나정<br>(Project) | 윤선영 | 허재원 |
 
-
-
-### Back-end Developers
-
-| Back-End | Back-End |
-| :---: | :---: |
-| 황정수 | 이가은 |
 
 ## 💡적용 기술
 
